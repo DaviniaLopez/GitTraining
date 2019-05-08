@@ -11,3 +11,8 @@ Cambio 6 como parte de exercise3
 
 Cambio 7 como parte de featuresGFT
 
+Cambio 8 para probar conflictos 1
+Cambio 9 para probar conflictos 2
+
+
+
