@@ -8,3 +8,6 @@ Cambio 4
 Cambio 5
 
 Cambio 6 como parte de exercise3
+
+Cambio 7 como parte de featuresGFT
+
